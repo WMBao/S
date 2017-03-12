@@ -52,6 +52,6 @@ Accomplish Android APP coding, related part of the report and the report webpage
 
 * The following figure illustrates the connections among Arduino system modules.
 
-![Missing image](https://github.com/WMBao/SecuPatrol/tree/gh-pages/images/6.png)
+![Missing image](https://wmbao.github.io/SecuPatrol/images/6.png)
 
 
