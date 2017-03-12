@@ -42,9 +42,9 @@ The link above points to the report webpage (in Chinese) with implementation det
 
 
 ## Contribution
-Accomplish Android APP coding, related part of the report and the report webpage.
+Accomplish the Android APP coding, related part of the report and the report webpage.
 
-
+Collaborate with Yaoming Zhu, Bo Pang and Yihui Qian.
 
 ## Details(selected)
 
